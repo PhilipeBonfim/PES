@@ -1,3 +1,10 @@
+-- Pontifícia Universidade Católica do Rio de Janeiro - PUC-Rio
+-- Princípios de Engenharia de Software - 2016.1
+-- Trabalho 1
+-- Philipe José da Silva Bonfim
+--
+-- CreateWordTableFromWordList.lua
+
 function CreateWordTableFromWordList(WordListToBeUsed)
 	--Inicia a leitura da tabela de palavras a ser lida e gera um arquivo contendo o comando para
 	--gerar o array dessa tabela.
