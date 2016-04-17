@@ -1,3 +1,10 @@
+-- Pontifícia Universidade Católica do Rio de Janeiro - PUC-Rio
+-- Princípios de Engenharia de Software - 2016.1
+-- Trabalho 1
+-- Philipe José da Silva Bonfim
+--
+-- main.lua
+
 require "CheckWordIndex"
 require "CreateWordTableFromWordList"
 
