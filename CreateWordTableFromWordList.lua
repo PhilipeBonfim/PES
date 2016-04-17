@@ -11,6 +11,7 @@ function CreateWordTableFromWordList(WordListToBeUsed)
 	local quote = string.char(34)
 	
 	local first = false
+	
 	-- Para cada linha da tabela de palavras recebida(WordTableToBeUsed), adiciona essa palavra ao array para ser utilizada no programa.
 	for line in input:lines() do
 		local word = quote .. line .. quote
@@ -22,6 +23,7 @@ function CreateWordTableFromWordList(WordListToBeUsed)
 			output.write("," .. word)
 		end
 	end
+	
 	-- Fecha o array e termina declaração
 	saida.write("}")
 	
