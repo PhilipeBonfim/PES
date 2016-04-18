@@ -1,0 +1,33 @@
+
+Dia 1 - 05 de abril de 2016
+Após o professor explicar o trabalho, comecei a ler sobre lua, busquei tutoriais e exemplos. Tive dificuldades de entender como funciona, 
+então procurei o livro do roberto ierusalimschy sobre lua para estudar mais sobre essa nova linguagem. Tentei pensar em algum tema para 
+usar nesse trabalho mas nada parecia muito bom.
+
+
+Dia 2 - 07 de abril de 2016
+Ainda não consegui decidir sobre um tema para usar, muitas ideias parecem complicadas demais para tentar fazer numa linguagem nova e 
+outras muito simples para ser um trabalho. Continuei estudando o livro do roberto, ainda não me acostumei com algumas caracteristicas de 
+lua, sinto falta das chaves e volta e meia esqueço de colocar "end" no final das coisas ou "then" depois do if.
+
+
+Dia 3 - 10 de abril de 2016
+Finalmente tive uma ideia que pareceu interessante, pensei em fazer uma especie de tradutor só que para japonês. Andei aprendendo algumas 
+palavras e expressões em japonês atravês de um aplicativo e achei legal fazer algo desse tipo. Mas como não sei muito do vocabulário e da 
+escrita estou pensando de que modo poderia fazer isso.
+
+Dia 4 - 11 de abril de 2016
+Como não sei quase nada dos caracteres japoneses, resolvi fazer um tradutor que dado uma palavra te diz como ela é falada na outra 
+lingua, evitando o problema com a escrita japonesa que é complicada de trabalhar sem saber. Com o tema definido comecei a criar algumas 
+das funções que vou precisar, a função de criar a tabela de palavras em português e uma para a de japonês. Também criei a função para 
+criar a lista de palavras que serão usadas pelo programa.
+
+Dia 5 - 12 de abril de 2016
+Resolvi alterar algumas funções para poderem ser utilizadas por outras funções de modo a ficarem mais genéricas. Agora tenho apenas um 
+método para procurar as palavras em uma lista, um para criar as duas tabelas e o programa principal.
+
+Dia 6 - 14 de abril de 2016
+
+
+
+
