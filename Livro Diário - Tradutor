@@ -27,7 +27,13 @@ Resolvi alterar algumas funções para poderem ser utilizadas por outras funçõ
 método para procurar as palavras em uma lista, um para criar as duas tabelas e o programa principal, main.lua.
 
 Dia 6 - 14 de abril de 2016
-Comecei a testar o programa, mas por motivos que ainda desconheço ele não está funcionando.Comecei a testar as funções separadamente
+Comecei a testar o programa, mas por motivos que ainda desconheço, ele não está funcionando. Comecei a testar as funções separadamente
+para tentar descobrir o problema.Comecei a popular as tabelas de palavras a serem utilizadas, são muitas palavras para adicionar, não 
+acho que vou conseguir adicionar todo o dicionário na mão até o dia da entrega.
+
+Dia 7 - 17 de abril de 2016
+Continuei tentando fazer o programa funcionar mas ainda estou tendo alguns problemas. Decidi por preencher a tabela com apenas algumas 
+palavras, em torno de 100, para ter mais tempo para resolver esses problemas do programa.
 
 
 
