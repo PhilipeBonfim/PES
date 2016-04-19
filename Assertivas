@@ -1,0 +1,10 @@
+Pré condições:
+- O programa recebe uma palavra válida em português, seguindo os padrões definidos.
+- A palavra recebida está presente na tabela de palavras.
+
+Pós condições:
+- O programa exibe para o usuário essa palavra em outra lingua ou exibe uma mensagem dizendo que a palavra não foi encontrada.
+
+
+
+
