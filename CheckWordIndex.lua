@@ -4,6 +4,8 @@
 -- Philipe José da Silva Bonfim
 --
 -- CheckWordIndex.lua
+
+--Tabela com as palavras em português
 require "Wordtable"
 
 function GetWordIdexFromWordTable(word)
