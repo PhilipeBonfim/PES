@@ -12,7 +12,7 @@ function CreateWordTableFromWordList(WordListToBeUsed)
 	local output = io.open(WordListToBeUsed .. ".lua", "w")
 	
 	--Inicio do comando a ser utilizado para gerar o array.
-	local command = "WordTable = {"
+	local command = WordListToBeUsed .. " = {"
 	
 	-- Caractere das aspas, ""
 	local quote = string.char(34)
