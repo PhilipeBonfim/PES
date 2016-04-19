@@ -8,6 +8,7 @@
 --Tabela com as palavras em português
 require "Wordtable"
 
+--Método que recebe uma palavra e retorna o indice caso ela seja encontrada ou uma mensagem dizendo que não foi encontrada.
 function GetWordIdexFromWordTable(word)
 	for i = 1, table.getn(WordTable), 1 do
 		if(WordTable[i] == word)
