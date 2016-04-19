@@ -1,9 +1,22 @@
 Pré condições:
+- O programa inicia definindo as listas de tabelas de palvras.
 - O programa recebe uma palavra válida em português, seguindo os padrões definidos.
 - A palavra recebida está presente na tabela de palavras.
+- A palavra recebida não é a palavra exit.
 
 Pós condições:
 - O programa exibe para o usuário essa palavra em outra lingua ou exibe uma mensagem dizendo que a palavra não foi encontrada.
+
+
+A função CreateWordTableFromWordList(WordList) cria a lista recebida a partir de uma tabela com o mesmo nome recebido, tratando a 
+primeira pré condição.
+- Recebe o nome do arquivo da lista de palavras, abre o arquivo e cria um arquivo que define todas as palavras a serem utilizadas.
+
+
+A função main trata da leitura dessa palavra e do termino do programa caso receba a palavra exit.
+
+A função CheckWordIndex(word) trata a busca dessa palavra na tabela, e exibe a mensagem que não foi encontrado para o usuário.
+
 
 
 
