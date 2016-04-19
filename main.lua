@@ -11,8 +11,8 @@ require "CreateWordTableFromWordList"
 function main()
 
 -- Criação das listas das palavras a serem usadas.
-	createWordTableFromWordList(WordList)
-	createWordTableFromWordList(JWordList)
+	createWordTableFromWordList(WordTable)
+	createWordTableFromWordList(JWordTable)
 
 -- Mensagens explicando sobre o programa e como funciona.
 	print("Bem vindo ao tradutor de portugues para japonês.\n")
